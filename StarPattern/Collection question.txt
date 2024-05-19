@@ -1,0 +1,36 @@
+1]  What is set?
+
+2]  What is hashset class and how it works internally?
+
+---->  it implements the set interface.internally uses the hash table and in this class insertion and 
+deletion operation works fast.
+hashtable internally contains an array and each element of array is called a bucket. A hash fuction 
+as X element is input and calculate hashvalue which is the index to the bucket array.
+Each bucket has a link list and element is added to the linklist of the apporopriate bucket.
+
+3]  can a null element be added to treeset or hashset ?
+
+4]  what is the difference between hashset and linkedhashset ?
+
+----> the 
+
+5]  define linkedhashset  in the java collection framework ?
+
+6]  how to convert treeset to array in java ?
+ 
+----> by using toarray method which is present in collection interfce.
+
+7]   how to iterate over hashmap?
+
+9]   explain the internal working of put() and get() methods of hashmap class and discuss
+hashmap collisions ?
+
+10]  how is linkedhashmap class implemented in java ?
+
+11]  how is treemap class implemented in java ?
+
+12]  what is difference between hashmap and treemap ?
+
+13]  how will you insert ,delete and retrieve elements from a hashmap collection in java ?
+
+ 
